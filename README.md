@@ -1,6 +1,6 @@
 # Figuras Geométricas  
 
-Aplicação console para cálculo do IMC. 
+Aplicação console para cálculo da área e perímetro de figuras geométricas. 
 
 ## Funcionalidades 
 - Calcula e apresenta a área e o perímetro de um quadrado;
